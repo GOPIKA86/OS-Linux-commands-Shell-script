@@ -1,3 +1,7 @@
+NAME: GOPIKA A
+
+REG NO: 212224100017
+
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
